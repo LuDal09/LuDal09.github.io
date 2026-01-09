@@ -1,6 +1,4 @@
 # LuDal09.github.io
-#Pagina 
-
 
 let loadedResolve, reportLoaded = new Promise((res, rej) => { loadedResolve = res; });
 let renderedResolve, reportRendered = new Promise((res, rej) => { renderedResolve = res; });
